@@ -1,8 +1,6 @@
-# Mi_Portafolio
-Actividades y proyectos
+# Mi_Portafolio:  Actividades y proyectos
 
-# Por:
-Carlos Coloch Camacho Hernández
+# Por:  Carlos Coloch Camacho Hernández
 
 # Estadísticas:
 https://github-readme-stats.vercel.app/api?username=CarlosColoch
