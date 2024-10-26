@@ -1,10 +1,20 @@
 # Mi_Portafolio:  Actividades y proyectos
 
 # Por:  Carlos Coloch Camacho Hernández
+	e-Mail: carloscoloch2000@hotmail.com
+
+# Bio:
+	Desarrollo: Html, scss, javascript - Java
+	Macros - excel nivel código.
+	App Vb6.
+
+#  LikeIn: 
+ 	https://linkedin.com/in/carlos-coloch-camacho-684a5433
 
 # Estadísticas:
-https://github-readme-stats.vercel.app/api?username=CarlosColoch
-https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosColoch
+	https://github-readme-stats.vercel.app/api?username=CarlosColoch
+
+	https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosColoch
 
 # Actividades y Proyectos:
 Práctica 13 https://github.com/CarlosColoch/p13
