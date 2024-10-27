@@ -24,7 +24,8 @@ Práctica 13 https://github.com/CarlosColoch/p13
 
 Práctica 33 https://github.com/CarlosColoch/p33
 
-	HTML -Incluir Landing Page  https://carloscoloch.github.io/p33/
+	HTML -Incluir Landing Page  
+ 	# https://carloscoloch.github.io/p33/
 
 Practia 24 https://github.com/CarlosColoch/p24
 
