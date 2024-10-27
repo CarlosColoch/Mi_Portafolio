@@ -18,22 +18,28 @@
 
 # Actividades y Proyectos:
 Práctica 13 https://github.com/CarlosColoch/p13
+
 	CSS - Servicio de alojamiento para Sitios Estáticos https://carloscoloch.github.io/p13/
 
 Práctica 33 https://github.com/CarlosColoch/p33
+
 	HTML -Incluir Landing Page  https://carloscoloch.github.io/p33/
 
 Practia 24 https://github.com/CarlosColoch/p24
+
 	HTML - Node.js axio  https://carloscoloch.github.io/p24/
 
 Práctica 21 https://github.com/CarlosColoch/p21b
+
 	JQuery - Primer Proyecto: JavaScript Asíncrono.  https://carloscoloch.github.io/p21b
  
 
 Práctica 59 https://github.com/CarlosColoch/p59
+
 	Java - Persistencia
 
 Practica51 https://github.com/CarlosColoch/practica51
+
 	Java - GREDLE 
 
 Práctica 35 https://github.com/CarlosColoch/p35
