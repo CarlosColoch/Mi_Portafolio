@@ -37,7 +37,6 @@ Práctica 21 https://github.com/CarlosColoch/p21b
 	JQuery - Primer Proyecto: JavaScript Asíncrono. 
  # https://carloscoloch.github.io/p21b
  
-
 Práctica 59 https://github.com/CarlosColoch/p59
 
 	Java - Persistencia
@@ -47,7 +46,8 @@ Practica51 https://github.com/CarlosColoch/practica51
 	Java - GREDLE 
 
 Práctica 35 https://github.com/CarlosColoch/p35
-	Métodos y Clases - Crear Chatbot JavaScript 
+	Métodos y Clases - Crear Chatbot JavaScript
+# https://carloscoloch.github.io/p35 
 
 Práctica 34 https://github.com/CarlosColoch/p34
 	HTML - Operadores, Ciclos y condicional
